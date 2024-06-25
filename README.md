@@ -3,6 +3,12 @@
 
 *******************************************************************************************************************
 
+### Description
+
+This Github repository stories the source code for my personal website. This website includes some information about me, as well as my favorite Roblox and Steam games. It also includes my social medias, and some cute images.
+
+*******************************************************************************************************************
+
 **Links to image sources:**
  - *All images on the favorite Roblox games and the favorite Steam games sites are produced by me, except for the social media logos, which were all made by their respective owners.*
  - [**404 Chibi Pirate Girl image**](https://wpclipart.com/cartoon/anime/chibi/chibi_girl_eyepatch.jpg.html)
