@@ -5,7 +5,7 @@
 
 ### Description
 
-This Github repository stories the source code for my personal website. This website includes some information about me, as well as my favorite Roblox and Steam games. It also includes my social medias, and some cute images.
+This Github repository stores the source code for my personal website. This website includes some information about me, as well as my favorite Roblox and Steam games. It also includes my social medias, and some cute images.
 
 *******************************************************************************************************************
 
