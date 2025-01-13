@@ -10,10 +10,9 @@ This Github repository stores the source code for my personal website. This webs
 *******************************************************************************************************************
 
 **Links to image sources:**
- - *All images on the favorite Roblox games and the favorite Steam games sites are produced by me, except for the social media logos, which were all made by their respective owners.*
+ - *All images on the site re produced by me, except for the social media logos and the 404 page chibi girl, which were all made by their respective owners.*
  - [**404 Chibi Pirate Girl image**](https://wpclipart.com/cartoon/anime/chibi/chibi_girl_eyepatch.jpg.html)
  - [**Sky background**](https://www.pexels.com/photo/white-clouds-in-pink-and-blue-clouds-2310713/)
- - [**Chibi Boy Waving**](https://www.freepik.com/free-vector/hand-drawn-anime-kawaii-illustration_49455584.htm#fromView=search&page=1&position=4&uuid=6a8d480e-cff3-4fc5-802b-3df248ef5ea6)
  - *Discord Rich Embed Teto Drawing drawn by me*
  - [**Favicon Creator**](https://www.favicon.cc/)
  - [**Social Media Logos**](https://1000logos.net/)
