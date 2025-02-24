@@ -10,7 +10,7 @@ This Github repository stores the source code for my personal website. This webs
 *******************************************************************************************************************
 
 **Links to image sources:**
- - *All images on the site are produced by me, except for the social media logos and the 404 page chibi girl, which were all made by their respective owners.*
+ - *All images on the site are produced by me, except for the social media logos, fandom logos and the 404 page chibi girl, which were all made by their respective owners.*
  - [**404 Chibi Pirate Girl image**](https://wpclipart.com/cartoon/anime/chibi/chibi_girl_eyepatch.jpg.html)
  - [**Sky background**](https://www.pexels.com/photo/white-clouds-in-pink-and-blue-clouds-2310713/)
  - *Discord Rich Embed Teto Drawing drawn by me*
